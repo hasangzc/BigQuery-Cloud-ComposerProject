@@ -4,4 +4,4 @@ Send data to Bucket. From here, a flow has been created that will take it with C
 Flow;
 
 
-<img src="flow.png" width=700 height=400>
+<img src="flow.png" width=900 height=400>
